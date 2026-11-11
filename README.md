@@ -79,7 +79,7 @@ Use `--somente-regras` para rodar sem carregar o Qwen. A pasta [resultados/audit
 
 ## Experimentar com um pedido próprio
 
-Depois do treino, carregue o adaptador salvo e passe um pedido pela linha de comando:
+Use o adaptador salvo pelo treino ou baixe `adapter_config.json` e `adapter_model.safetensors` do [Hugging Face](https://huggingface.co/Tieppo/extrator-pedidos-lora) para a pasta `resultados/adaptador`. Depois, passe um pedido pela linha de comando:
 
 ```sh
 python inferir.py --adaptador resultados/adaptador "Até R$ 45 com entrega, sem camarão e em 30 minutos"
