@@ -1,0 +1,31 @@
+pedido	centavos	minutos	restricoes	ingredientes
+Com a taxa junto, meu teto é R$ 45. Dispenso camarão. Preciso receber dentro de meia hora.	4500	30		camarao
+Pode ser qualquer coisa, só não quero pimentão nem azeitona.				pimentao,azeitona
+Se chegar depois de 37 minutos não serve.		37		
+Tenho R$ 32,90 pra gastar no total.	3290			
+É pra uma pessoa celíaca. O prato precisa ser sem glúten e sem ovo.			sem_gluten,sem_ovo	
+Não faço questão de ser vegetariano. Pode ter carne, mas tira o alho.				alho
+Sem pressa e sem limite de preço. Só queria algo quentinho.				
+Tenho intolerância à lactose. Não põe tomate.			sem_lactose	tomate
+Eu pago até cinquenta reais com a entrega; quero algo vegano.	5000		vegano	
+R$ 29,75 é tudo que eu tenho. Chega em 25 minutos ou menos?	2975	25		
+Não me manda nada com amendoim. Também não gosto de cebola.			sem_amendoim	cebola
+É pra alguém vegetariano. Pimentão pode; coentro, não.			vegetariano	coentro
+Escolhe um jantar caprichado pra mim. Se for barato, melhor.				
+Tenho uma hora no máximo e queria evitar qualquer fruto do mar.		60	sem_frutos_do_mar	
+Meu orçamento não passa de 44 reais; se chegar em até 22 min, perfeito.	4400	22		
+Já com entrega, não posso gastar mais de trinta reais. Nem ovo, nem glúten.	3000		sem_gluten,sem_ovo	
+Tô com pressa mas não tenho um horário certo. Maionese não rola.				maionese
+Aceito alho. Exclui só cogumelo e presunto.				cogumelo,presunto
+Eu falei 40 antes, mas hoje o máximo é R$ 36.	3600			
+Ontem esperava 20 minutos; hoje posso aguardar até 55 minutos.		55		
+Sem lactose e sem amendoim. Se tiver cebola, também não serve.			sem_lactose,sem_amendoim	cebola
+Quero uma refeição vegana e dispenso pimenta, por gentileza.			vegano	pimenta
+Quero gastar no máximo R$ 42,50. Tenho 40 minutos e não como frutos do mar.	4250	40	sem_frutos_do_mar	
+Pode ser demorado. Não me importo com glúten ou lactose.				
+Manda uma comida de até R$ 27 sem azeitona e sem alho, por favor.	2700			azeitona,alho
+Não curto carne de porco, mas frango pode. O teto é 57 reais.	5700			carne de porco
+Meu intervalo termina em 28 min, então esse é o máximo. Nada com ovo.		28	sem_ovo	
+Gostaria de um prato vegetariano até R$ 62, com entrega em até 35 minutos e sem tomate.	6200	35	vegetariano	tomate
+Se não tiver coentro, melhor: por favor tira coentro. Até R$ 21,90.	2190			coentro
+Precisa ser vegano e sem amendoim. Se custar até R$ 53 e chegar em 33 min no máximo, serve.	5300	33	sem_amendoim,vegano	

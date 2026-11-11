@@ -1,0 +1,6 @@
+.tools/
+.venv/
+__pycache__/
+*.pyc
+resultados/adaptador/
+resultados/regras-local/

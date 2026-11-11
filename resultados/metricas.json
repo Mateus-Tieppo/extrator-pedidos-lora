@@ -1,0 +1,35 @@
+{
+  "modelo": "Qwen/Qwen2.5-0.5B-Instruct",
+  "revisao": "7ae557604adf67be50417f59c2c2f167def9a775",
+  "seed": 42,
+  "dispositivo": "cuda",
+  "torch": "2.14.1+cu130",
+  "gpu": "Tesla T4",
+  "exemplos_de_treino_disponiveis": 360,
+  "passos_treino": 120,
+  "segundos_treino": 21.32,
+  "base": {
+    "total": 30,
+    "validos": 0,
+    "exatos": 0,
+    "acertos_por_campo": {
+      "orcamento_max_centavos": 0,
+      "tempo_max_min": 0,
+      "restricoes": 0,
+      "ingredientes_excluidos": 0
+    },
+    "segundos_inferencia": 12.68
+  },
+  "lora": {
+    "total": 30,
+    "validos": 27,
+    "exatos": 15,
+    "acertos_por_campo": {
+      "orcamento_max_centavos": 25,
+      "tempo_max_min": 24,
+      "restricoes": 20,
+      "ingredientes_excluidos": 22
+    },
+    "segundos_inferencia": 10.11
+  }
+}

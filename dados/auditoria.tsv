@@ -1,0 +1,41 @@
+grupo	pedido	centavos	minutos	restricoes	ingredientes
+direto	Hoje só peço algo sem lactose, até R$ 48.	4800		sem_lactose	
+direto	Traz um almoço vegetariano em até 32 minutos.		32	vegetariano	
+direto	Preciso de uma opção sem glúten por até R$ 38,50.	3850		sem_gluten	
+direto	Me indica um jantar sem amendoim.			sem_amendoim	
+direto	Quero um prato vegano com entrega em até 45 min.		45	vegano	
+direto	Escolhe um prato sem frutos do mar por até R$ 52.	5200		sem_frutos_do_mar	
+direto	Hoje vou de sanduíche sem ovo.			sem_ovo	
+direto	Um almoço sem pimentão, até R$ 34,20.	3420			pimentao
+parafrase	Lactose me faz mal. O que tem no cardápio?			sem_lactose	
+parafrase	Sou celíaco, então glúten fica fora.			sem_gluten	
+parafrase	Tenho alergia a amendoim, consegue achar outra opção?			sem_amendoim	
+parafrase	Ovo me dá alergia. Preciso de um prato que não leve esse ingrediente.			sem_ovo	
+parafrase	Minha dieta é vegana, mesmo se o prato só levar queijo já não serve.			vegano	
+parafrase	Frutos do mar estão fora para mim. O orçamento é de R$ 46 no máximo.	4600		sem_frutos_do_mar	
+parafrase	Por favor, retire a cebola e mantenha todos os outros ingredientes.				cebola
+parafrase	Para mim camarão é que não dá. Peixe pode.				camarao
+combinacao	Hoje preciso de um prato sem lactose e sem glúten, com entrega em 26 minutos no máximo.		26	sem_gluten,sem_lactose	
+combinacao	Quero um jantar vegetariano, sem ovo e sem cebola.			sem_ovo,vegetariano	cebola
+combinacao	Comida vegana e nada de amendoim. Dá para gastar até R$ 49,90.	4990		sem_amendoim,vegano	
+combinacao	Não como frutos do mar nem ovo. Meu limite é R$ 54 e a espera máxima é de 31 min.	5400	31	sem_frutos_do_mar,sem_ovo	
+combinacao	Tem que ser sem glúten. Pode tirar tomate, coentro e alho?			sem_gluten	alho,coentro,tomate
+combinacao	O pedido não pode ter lactose. Também não quero presunto nem azeitona.			sem_lactose	azeitona,presunto
+combinacao	Um prato sem amendoim e sem pimenta. A entrega pode levar no máximo meia hora.		30	sem_amendoim	pimenta
+combinacao	Tira cogumelo e maionese de um lanche vegano. Até R$ 39,50.	3950		vegano	cogumelo,maionese
+contraste	Não precisa ser vegano. Só peço que seja sem ovo.			sem_ovo	
+contraste	Glúten está liberado, mas eu preciso evitar lactose.			sem_lactose	
+contraste	Eu disse vegetariano, mas mudei de ideia. Pode ter carne; mantenha sem glúten.			sem_gluten	
+contraste	Meu amigo é alérgico a amendoim, mas o pedido é só meu e posso comer de tudo.				
+contraste	Pode pôr camarão. O que eu não quero é cebola nem alho.				alho,cebola
+contraste	Pensei em pedir sem ovo, mas o ovo pode ficar. Quero sem amendoim.			sem_amendoim	
+contraste	O prato não precisa ser sem glúten, pode ser normal. Só tira pimentão.				pimentao
+contraste	Queijo sem lactose tudo bem. Só preciso que seja vegetariano e sem lactose.			sem_lactose,vegetariano	
+controle	Escolhe uma sopa bem quente. Posso esperar.				
+controle	Quero um lanche de até R$ 28,90 com entrega em até 24 minutos.	2890	24		
+controle	Vou querer sobremesa com amendoim, se tiver.				
+controle	Sem pressa para chegar; qualquer prato serve.				
+controle	Qualquer almoço com bastante alho e cebola.				
+controle	Capricha na pimenta, por favor, e fica abaixo de R$ 50.	5000			
+controle	Queria algo barato e rápido, sem um teto de preço nem prazo fixo.				
+controle	Hoje queria camarão ou peixe e posso esperar no máximo 42 minutos.		42		

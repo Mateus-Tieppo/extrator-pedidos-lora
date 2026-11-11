@@ -1,0 +1,54 @@
+{
+  "regras": {
+    "total": 40,
+    "validos": 40,
+    "exatos": 18,
+    "com_restricao": 26,
+    "com_exclusao": 10,
+    "restricao_omitida_em_saida_valida": 6,
+    "restricao_em_saida_invalida": 0,
+    "restricao_inventada": 5,
+    "ingrediente_omitido_em_saida_valida": 8,
+    "exclusao_em_saida_invalida": 0,
+    "ingrediente_inventado": 2
+  },
+  "base_original": {
+    "total": 40,
+    "validos": 1,
+    "exatos": 0,
+    "com_restricao": 26,
+    "com_exclusao": 10,
+    "restricao_omitida_em_saida_valida": 0,
+    "restricao_em_saida_invalida": 26,
+    "restricao_inventada": 1,
+    "ingrediente_omitido_em_saida_valida": 0,
+    "exclusao_em_saida_invalida": 10,
+    "ingrediente_inventado": 0
+  },
+  "base_sem_cerca": {
+    "total": 40,
+    "validos": 35,
+    "exatos": 8,
+    "com_restricao": 26,
+    "com_exclusao": 10,
+    "restricao_omitida_em_saida_valida": 8,
+    "restricao_em_saida_invalida": 4,
+    "restricao_inventada": 24,
+    "ingrediente_omitido_em_saida_valida": 7,
+    "exclusao_em_saida_invalida": 2,
+    "ingrediente_inventado": 0
+  },
+  "lora": {
+    "total": 40,
+    "validos": 34,
+    "exatos": 14,
+    "com_restricao": 26,
+    "com_exclusao": 10,
+    "restricao_omitida_em_saida_valida": 15,
+    "restricao_em_saida_invalida": 6,
+    "restricao_inventada": 1,
+    "ingrediente_omitido_em_saida_valida": 1,
+    "exclusao_em_saida_invalida": 1,
+    "ingrediente_inventado": 14
+  }
+}
